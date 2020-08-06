@@ -1,6 +1,6 @@
 {
   "name": "compare-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compare version",
   "main": "lib/index.min.js",
   "scripts": {
