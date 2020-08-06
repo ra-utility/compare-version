@@ -1,0 +1,10 @@
+src
+tsconfig.json
+tslint.json
+.prettierr
+
+test
+LICENSE
+yarn.lock
+.travis.yml
+index.ts
