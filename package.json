@@ -1,5 +1,5 @@
 {
-  "name": "compare-version",
+  "name": "simple-compare-version",
   "version": "1.0.3",
   "description": "compare version",
   "main": "lib/index.min.js",
