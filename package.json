@@ -29,6 +29,6 @@
     "compare version"
   ],
   "files": [
-    "lib/**/*"
+    "lib/index.min.js"
   ]
 }
